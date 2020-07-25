@@ -1,6 +1,8 @@
 # Ecoleta 
  NodeJs, React, React Native, Typescript
  
+ [![HitCount](https://hits.dwyl.com/lucasbc92/lucasbc92/nlw-ecoleta.svg)](https://hits.dwyl.com/lucasbc92/lucasbc92/nlw-ecoleta)
+ 
  ![](/assets_for_readme/Capa.png)
  
  Tecnologias utilizadas:
